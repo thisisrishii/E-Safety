@@ -1,0 +1,39 @@
+.center {
+    margin-top: 10%;
+    margin-right:25%;
+    margin-left:25%;
+    width: 50%;
+    height: 50%;
+    border: 3px solid #498CF0;
+    background-color:#498CF0;
+    padding-right: 2%;
+    padding-left: 2%;
+    border-radius: 50px;
+    text-align: center;
+  }
+  .color-box	{
+      background-color:#498CF0;
+      margin-top: 4%;
+  }
+  .pass{
+      width: 50%;
+      margin-bottom: 3%;
+  }
+  .email{
+      width: 50%; 
+      margin-bottom: 3%;
+  }
+  .mon{
+      width: 50%;
+      margin-bottom: 3%;
+  }
+  .username{
+      width: 50%;
+      margin-bottom: 3%;
+  }
+  .heading{
+      margin-bottom: 5%;
+  }
+  .logbutton{
+    margin-bottom: 3%;
+  } 
