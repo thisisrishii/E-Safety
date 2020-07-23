@@ -37,3 +37,7 @@
   .logbutton{
     margin-bottom: 3%;
   } 
+  .mainbutton{
+      margin-bottom: 6%;
+      border-radius: 50pxS;
+  }
